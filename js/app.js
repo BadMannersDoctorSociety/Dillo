@@ -1,5 +1,5 @@
 const CONFIG = {
-  WEBHOOK_URL: "https://discord.com/api/webhooks/1528167752190398717/DUIcyKQzRBGxKA00VE7ETaYCTRu3lDYZu1v19B5jSY-Sk7lIcHw0IEhNNC-Lgwg3f23G",
+  WEBHOOK_URL: "https://discord.com/api/webhooks/1538240459409723392/Tl9zyWx0gu35p19QjNXHuyu68xhNXo7VjGnXz1LCiNpw5QZ-7wjtrHINrGjS2p8s1e_A",
   DISCORD_INVITE: "https://discord.gg/hYCcvPgsdB",
 
   MAP_EMBED_URL: "https://map.democracycraft.net/#reveille:0:0:0:1500:0:0:0:1:flat",
