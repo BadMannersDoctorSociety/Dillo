@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Manrope:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
 
 :root{
-  --bg: #060f09;
-  --bg-raise: #0c1a11;
-  --surface: #0f2116;
-  --surface-2: #142a1c;
+  --bg: #080706;
+  --bg-raise: #12100b;
+  --surface: #19150d;
+  --surface-2: #241e12;
   --line: #1e3a27;
   --line-soft: #16291c;
-  --green: #3fb86d;
-  --green-bright: #7ce29b;
-  --green-deep: #1f7a44;
-  --text: #f2f6f0;
+  --green: #d4a72c;
+  --green-bright: #f5d76e;
+  --green-deep: #9b7415;
+  --text: #f7f2e5;
   --text-muted: #a9c2ac;
   --text-faint: #6c8873;
   --danger: #d9694f;
