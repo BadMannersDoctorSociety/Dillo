@@ -156,7 +156,7 @@ input, textarea, select{ font-family: inherit; }
 .btn:active{ transform: scale(0.97); }
 .btn-primary{
   background: var(--green);
-  color: #C19A3C;
+  color: #FFFFFF;
 }
 .btn-primary:hover{ background: var(--green-bright); }
 .btn-ghost{
@@ -582,8 +582,8 @@ section{ position:relative; padding: 70px 0; }
   font-family: var(--font-mono);
   font-size: 12px;
   color: var(--green-bright);
-  background: rgba(63,184,109,0.1);
-  border: 1px solid rgba(63,184,109,0.28);
+  background: rgba(0, 0, 0, 1);
+  border: 1px solid rgba(0, 0, 0, 1);
   padding: 5px 12px;
   border-radius: 999px;
 }
